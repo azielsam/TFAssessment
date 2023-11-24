@@ -1,4 +1,4 @@
-# Functions and Errors
+# Types of Functions
 
 This project is a solidity smart contract that inherits from the OpenZeppelin ERC-20 implementation and the Ownable contract provides ownership functionality. Only the contract owner can mint tokens, and any user can transfer or burn tokens.
 
